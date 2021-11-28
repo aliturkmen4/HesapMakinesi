@@ -1,0 +1,7 @@
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\6.hafta\pazar\MethodlarlaHesapMakinesi\MethodlarlaHesapMakinesi\bin\Debug\MethodlarlaHesapMakinesi.exe.config
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\6.hafta\pazar\MethodlarlaHesapMakinesi\MethodlarlaHesapMakinesi\bin\Debug\MethodlarlaHesapMakinesi.exe
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\6.hafta\pazar\MethodlarlaHesapMakinesi\MethodlarlaHesapMakinesi\bin\Debug\MethodlarlaHesapMakinesi.pdb
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\6.hafta\pazar\MethodlarlaHesapMakinesi\MethodlarlaHesapMakinesi\obj\Debug\MethodlarlaHesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\6.hafta\pazar\MethodlarlaHesapMakinesi\MethodlarlaHesapMakinesi\obj\Debug\MethodlarlaHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\6.hafta\pazar\MethodlarlaHesapMakinesi\MethodlarlaHesapMakinesi\obj\Debug\MethodlarlaHesapMakinesi.exe
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\6.hafta\pazar\MethodlarlaHesapMakinesi\MethodlarlaHesapMakinesi\obj\Debug\MethodlarlaHesapMakinesi.pdb
